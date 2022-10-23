@@ -94,13 +94,13 @@
     padding-bottom: 1em;
 }
 
-@media (min-width: 1160px){
+@media (min-width: 900px){
     .wrapper{
         align-items: center
     }
 
     .container{
-        width: 700px;
+        width: 440px;
         margin: 0 auto;
     }
     .bottom-container{
@@ -108,10 +108,10 @@
         flex-direction: row;
     }
     .left-bottom{
-        width: 350px;
+        width: 220px;
     }
     .right-bottom{
-        width: 350px;
+        width: 220px;
     }
     .description{
      width: 90%;
