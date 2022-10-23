@@ -85,7 +85,7 @@
 }
 /* Thanks for Mark from Frontend Mentor for pointing the hover state */
 .cta:hover{
-    curosr: pointer;
+    cursor: pointer;
     background-color: hsl(71,73%,68%);
 }
 
