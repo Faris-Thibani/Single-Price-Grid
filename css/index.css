@@ -83,6 +83,10 @@
     border-radius: .5em;
     color:white;
 }
+ul{
+    list-style: none;
+    padding-left: 0;
+}
 /* Thanks for Mark from Frontend Mentor for pointing the hover state */
 .cta:hover{
     cursor: pointer;
